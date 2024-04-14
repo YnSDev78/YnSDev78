@@ -4,4 +4,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=YnSDev78&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YnSDev78&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">YnSDevv</p>
+<h2 align="center">YnSDevv</h2>
